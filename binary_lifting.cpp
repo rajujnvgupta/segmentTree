@@ -1,4 +1,5 @@
-// binary lifting kth ancestor node
+// binary lifting kth ancestor node leetcode problem 
+//credit Errichto
 #include<bits/stdc++.h>
 using namespace std;
 const int LOGN;
